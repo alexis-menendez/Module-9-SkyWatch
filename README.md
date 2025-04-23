@@ -164,10 +164,14 @@ There are currently no automated tests for this project
 
 4. Lastly, I literally could not have completed this project without help from Robin ([Zomblic](https://github.com/zomblic)), a fellow bootcamper and the savior of my sanity. She quickly found the syntax errors in my code that were breaking everything and helped me get up and running. Couldn't have done it without her!
 
+---
+
 ## Contact
 
-If you have any questions, feel free to contact me:
+### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
 
-*  **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
-*  **Email**: alexis.menendez@austincc.edu
+- [**Portfolio**](https://alex-menendez.onrender.com/)
+- **LinkedIn**: [in/alex-d-menendez](https://www.linkedin.com/in/alex-d-menendez/)
+- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+- **Email**: [alexis.menendez@austincc.edu](https://alex-menendez.onrender.com/contact)
 
